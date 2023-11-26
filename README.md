@@ -16,18 +16,18 @@ _Результат работы программы:_
 
 ## _Тесты:_ 
 * Тест 1
-    <br/>![Alt text](test1.png)
+    <br/>![Alt text](screenshots\test1.png)
 
 * Тест 2
-    <br/>![Alt text](test2.png)
+    <br/>![Alt text](screenshots\test2.png)
 
 * Тест 3
-    <br/>![Alt text](test3.png)
+    <br/>![Alt text](screenshots\test3.png)
 
 * Тест 4
-    <br/>![Alt text](test4.png)
+    <br/>![Alt text](screenshots\test4.png)
 
-![Alt text](tests.png)
+![Alt text](screenshots\tests.png)
 
 ## _Текст программы:_
 В качестве примера текста программы ниже приведен текст main и подпрограмма поиска минимального и максимального символа, остальные подпрограммы и библиотека макросов лежат в репозитории. 
