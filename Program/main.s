@@ -6,13 +6,13 @@ main:
 .eqv	FILE_NAME_SIZE 256		# Размер буфера для имени файла
 .data
 	.align 2
-	file_name:		.space		FILE_NAME_SIZE	# Буфер для имени файла
+	file_name:	.space		FILE_NAME_SIZE	# Буфер для имени файла
 	file_name_out:	.space		FILE_NAME_SIZE	# Буфер для имени файла вывода
 .text
 	InputDialogString("Введите путь к файлу для чтения", file_name, FILE_NAME_SIZE)
 	read_file(file_name)
 	
-	find_min_max_char(a1)	# Вызываем подпрограмму для поиска минимального и максимального элементов
+	find_min_max_char(a1)		# Вызываем подпрограмму для поиска минимального и максимального элементов
 					# строка находится в регисре a1
 					
 	str_min_max(a1, a2)		# Создаем строку ответ передавая минимальный и максимальный элемент
