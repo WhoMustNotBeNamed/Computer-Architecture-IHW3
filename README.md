@@ -8,11 +8,11 @@
 
 _Результат работы программы:_
 
-![Alt text](image1.png)
-![Alt text](image2.png)
-![Alt text](image3.png)
-![Alt text](image4.png)
-![Alt text](image5.png)
+![Alt text](screenshots/image1.png)
+![Alt text](screenshots/image2.png)
+![Alt text](screenshots/image3.png)
+![Alt text](screenshots/image4.png)
+![Alt text](screenshots/image5.png)
 
 ## _Тесты:_ 
 * Тест 1
@@ -153,9 +153,9 @@ error:
 * При вызове подпрограммы происходит передача необходимых переменных. Данная функция реализована с целью создания программы, которая будет способна работать с разными данными, в том числе c пользовательскими переменными
 * Взаимодействие с пользователем организовано через `диалоговое окно`
 * Если пользователь вводит неизвестные значения, он получает сообщения об ошибке
-    <br/>![Alt text](error1.png) ![Alt text](error1.1.png)
-    <br/>![Alt text](error2.png) ![Alt text](error2.2.png)
-    <br/>![Alt text](error3.png)
+    <br/>![Alt text](screenshots/error1.png) ![Alt text](screenshots/error1.1.png)
+    <br/>![Alt text](screenshots/error2.png) ![Alt text](screenshots/error2.2.png)
+    <br/>![Alt text](screenshots/error3.png)
 * Дополнительная тестовая программа и файлы к ней расположены в папке `test_program`
 * Для корректной работы программы необходимо включить следующие настройки: 
-	<br/>![Alt text](settings.png)
+	<br/>![Alt text](screenshots/settings.png)
